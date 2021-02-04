@@ -5,5 +5,5 @@ plugins {
 group = "${group}.android-app"
 
 dependencies {
-    implementation("com.example.myproduct.user-feature:table")
+    implementation("com.example.myproduct.user-feature:table2")
 }

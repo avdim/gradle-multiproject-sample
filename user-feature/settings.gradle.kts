@@ -18,5 +18,5 @@ includeBuild("../state")
 
 // == Define the inner structure of this component ==
 rootProject.name = "user-feature"
-include("table")
+include("table2")
 include("data")
